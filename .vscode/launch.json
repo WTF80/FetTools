@@ -7,7 +7,7 @@
         {
             "type": "node",
             "request": "launch",
-            "args": ["-NewJoined", "<username>", "<password>"],
+            "args": ["-NewJoined", "NappyLeaks", "DPR#.aLeXaNd3R"],
             "name": "New_Joined",
             "program": "${workspaceFolder}/app.js"
         },
